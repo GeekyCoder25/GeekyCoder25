@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects which provides real life solutions 
 
 
-- 📫 How to reach me: @_GeekyCoder_ on Twitter 
+- 📫 How to reach me: _GeekyCoder_ on Twitter 
 
 
 
