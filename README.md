@@ -10,7 +10,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects which provides real life solutions 
 
 
-- 📫 How to reach me: https://twitter.com/_GeekyCoder_
+- 📫 How to reach me:
+- Twitter: https://twitter.com/_GeekyCoder
+- LinkedIn: https://www.linkedin.com/in/toyyib-lawal
 
 
 
